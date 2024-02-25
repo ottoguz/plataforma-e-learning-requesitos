@@ -1,5 +1,1 @@
-```mermaid
-graph LR
-  A[Requirement 1] --> B[Requirement 2]
-  B --> C[Requirement 3]
-  C --> D[Requirement 4]
+```python | Requirement | Description | Status | | --- | --- | --- | | Requirement 1 | Description of Requirement 1 | Not Started | | Requirement 2 | Description of Requirement 2 | In Progress | | Requirement 3 | Description of Requirement 3 | Completed |
