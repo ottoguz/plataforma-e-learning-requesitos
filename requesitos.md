@@ -40,6 +40,7 @@
 | Primary color                     | #12173F              |
 | Secondary color                   | #908F9C              |
 | Tertiary color                    | #A38A99              |
+| Success color                     | #32DCAA              |
 | Error color                       | #FF5449              |
 | Neutral color (background)        | #FF5449              |
 | Neutral variant (medium emphasis) | #FF5449              |
