@@ -42,8 +42,8 @@
 | Tertiary color                    | #A38A99              |
 | Success color                     | #32DCAA              |
 | Error color                       | #FF5449              |
-| Neutral color (background)        | #FF5449              |
-| Neutral variant (medium emphasis) | #FF5449              |
+| Neutral color (background)        | #929092              |
+| Neutral variant (medium emphasis) | #919095              |
 
 
 
